@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zeyne\Cpp_Computer_Vision\noise_reduction_and_smoothing\build\CMakeFiles\a5bb311dae49f1ae09296e1d14a665c0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F17B3C98-7B9D-361B-9C18-8F8C96E2D0F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20240614-0639-Experimental"
+	Name="BOOK-K9VT2POOJG"
+	Generator="ctest-3.29.5"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx86/x64/cl.exe"
+	CompilerVersion="19.40.33811.0"
+	OSName="Windows"
+	Hostname="BOOK-K9VT2POOJG"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="21441"
+	TotalPhysicalMemory="16065"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2611"
+	>
+	<Testing>
+		<StartDateTime>Jun 14 09:52 FLE Summer Time</StartDateTime>
+		<StartTestTime>1718347936</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 14 09:52 FLE Summer Time</EndDateTime>
+		<EndTestTime>1718347936</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,10 @@
+^C:\USERS\ZEYNE\CPP_COMPUTER_VISION\NOISE_REDUCTION_AND_SMOOTHING\BUILD\CMAKEFILES\A5BB311DAE49F1AE09296E1D14A665C0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/zeyne/Cpp_Computer_Vision/noise_reduction_and_smoothing -BC:/Users/zeyne/Cpp_Computer_Vision/noise_reduction_and_smoothing/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/zeyne/Cpp_Computer_Vision/noise_reduction_and_smoothing/build/noise_reduction_and_smoothing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
